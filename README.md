@@ -95,8 +95,6 @@ Feel free to contribute to this project by:
 3. Making your changes
 4. Submitting a pull request
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 - Maryland Open Data Portal for providing the dataset
