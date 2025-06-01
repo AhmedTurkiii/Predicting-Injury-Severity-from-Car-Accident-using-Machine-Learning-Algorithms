@@ -103,6 +103,6 @@ Feel free to contribute to this project by:
 
 ## Contact
 For any questions or suggestions, please contact the team members:
-- Ahmed Torki
-- Dalia Cabrera
-- Sergio Zavala 
+- [Ahmed Torki](https://www.linkedin.com/in/torki-ah/)
+- [Dalia Cabrera](https://www.linkedin.com/in/dalia-c-4754a4247/)
+- [Sergio Zavala](https://www.linkedin.com/in/sergiozavala1/) 
