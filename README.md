@@ -8,6 +8,12 @@
 ## Project Overview
 This project aims to predict the likelihood of injuries in car accidents in Maryland using machine learning techniques. By analyzing various crash-related factors such as weather conditions, vehicle damage, and surface conditions, we develop predictive models to classify injury severity.
 
+## Key Findings
+### Top Predictors of Injury Severity
+![Top Predictors of Injury Severity](injury_predictors.png)
+
+The above visualization shows the most significant factors that contribute to injury severity in car accidents. These insights help us understand which conditions and circumstances are most likely to lead to injuries.
+
 ## Project Goals
 1. Develop accurate machine learning models to predict injury likelihood in car accidents
 2. Identify key factors that contribute to accident severity
